@@ -1,0 +1,41 @@
+:root {
+--bg-gradient-primary: linear-gradient(to right bottom, #0093b5, #45d4ff);
+}
+
+body {
+font-family: 'Oswald', sans-serif;
+}
+
+.elfsight-app-de16a48a-a4c8-4b0a-8375-26e33e0fe4f1 .eapps-widget .eapps-widget-show-toolbar {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.jsx-1576218120 .eavg-vimeo-gallery-inner {
+background-image: var(--bg-gradient-primary);
+}
+
+.jsx-1576218120 .eavg-vimeo-gallery-title {
+background-image: var(--bg-gradient-primary);
+-webkit-background-clip: text;
+background-clip: text;
+color: transparent;
+font-size: 3rem;
+}
+
+.eavg-header-content-text.jsx-3009717652 span{
+color: #fff;
+font-size: 1.25rem;
+letter-spacing: 1.25;
+}
+
+.jsx-291376991 .eavg-info-component .eavg-info-name.jsx-291376991{
+background-color: #fff;
+color: #fff;
+}
+
+.eavg-info-name.jsx-291376991 {
+color: #fff;
+}
